@@ -16,10 +16,10 @@ def unique_in_order(iterable):
     if len(iterable) == 0:
         return []
     else:
-        niz = [iterable[0]]
+        lista = [iterable[0]]
         for i in range(len(iterable)):
-            if iterable[i] != niz[-1]:
-                niz.append(iterable[i])
-        return niz
+            if iterable[i] != lista[-1]:
+                lista.append(iterable[i])
+        return lista
 
 print(unique_in_order('AAAABBBCCDAABBB'))

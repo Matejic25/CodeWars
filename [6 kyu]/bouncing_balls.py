@@ -1,5 +1,5 @@
 # Bouncing Balls
-# https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/python
+# https://www.codewars.com/kata/5544c7a5cb454edb3c000047
 
 # A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known.
 # He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
